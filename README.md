@@ -1,4 +1,4 @@
-# The Legacy Fix — a ProoV Guided Project, powered by IBM Bob
+﻿# The Legacy Fix — a ProoV Guided Project, powered by IBM Bob
 
 This repo is the starting point of [The Legacy Fix](https://projectstudy.in/explore/experience-legacy-fix), a ProoV
 challenge. You are fixing **KM-Wächter**, the service that decides when each of Vossberg

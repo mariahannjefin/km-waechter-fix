@@ -1,4 +1,4 @@
-car_id,odometer_km,km_since_service,avg_daily_km,load_factor,age_years,broke_down
+﻿car_id,odometer_km,km_since_service,avg_daily_km,load_factor,age_years,broke_down
 VOS-1000,43322,3507,172,0.7,4,0
 VOS-1007,109463,2672,110,0.53,11,0
 VOS-1020,29573,11823,92,0.42,4,0

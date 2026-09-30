@@ -1,4 +1,4 @@
-# verify.py
+﻿# verify.py
 # Your acceptance check. Run this before you hand the repo in:  python verify.py
 #
 # It does not grade you. It tells you, honestly, whether the job is actually done — so that

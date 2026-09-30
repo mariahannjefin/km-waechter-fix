@@ -1,4 +1,4 @@
-# Your mission — fix and modernize KM-Waechter
+﻿# Your mission — fix and modernize KM-Waechter
 
 You are a junior engineer at Vossberg Mobility. This repo decides when 6,000 sports cars get
 serviced and prints the nightly health report. It is broken, the code is dated, and — like every
